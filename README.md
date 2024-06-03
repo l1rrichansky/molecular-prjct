@@ -1,4 +1,4 @@
 # molecular-prjct
 simple pyside6 program for university project
 
-![image](https://github.com/l1rrichansky/molecular-prjct/assets/85824228/638d118b-a4af-4c3e-83f8-1edb9ea690a8)
+![ex](https://github.com/l1rrichansky/molecular-prjct/assets/85824228/bb61a70e-5d25-4ee9-9ccd-43a84c7bbe94)
